@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <version>0.198</version>
+    <version>0.194</version>
 
     <groupId>ml.prestoconnectors</groupId>
     <artifactId>presto-oracle</artifactId>
@@ -12,7 +12,7 @@
 
 
     <properties>
-        <dep.presto.version>0.200</dep.presto.version>
+        <dep.presto.version>0.194</dep.presto.version>
         <dep.airlift.version>0.167</dep.airlift.version>
         <dep.slice.version>0.33</dep.slice.version>
     </properties>
